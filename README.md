@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikasv123" alt="vikasv123" /></a> </p>
 
-- 🔭 I’m currently working on **Data Science and AI/ML**
+- 🔭 I’m currently working on **Real Time Face Detection and Emotion and Gender Classification**
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
