@@ -35,5 +35,5 @@
 
 ---
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vikasv123&show_icons=true&locale=en" alt="vikasv123" width=500px /><img src="https://github-readme-streak-stats.herokuapp.com/?user=vikasv123&" alt="vikasv123" width=500px /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vikasv123&show_icons=true&locale=en" alt="vikasv123" width=500px height=300px /><img src="https://github-readme-streak-stats.herokuapp.com/?user=vikasv123&" alt="vikasv123" width=500px /></p>
 
