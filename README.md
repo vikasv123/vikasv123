@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vikasv123&label=Profile%20views&color=0e75b6&style=flat" alt="vikasv123" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikasv123" alt="vikasv123" /></a> </p>
+<p align="justify"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikasv123" alt="vikasv123" /></a> </p>
 
 ---
 
