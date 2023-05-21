@@ -31,8 +31,7 @@
 
 ---
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vikasv123&show_icons=true&locale=en&layout=compact" alt="vikasv123" /></p>
-[![GitHub Streak](https://streak-stats.demolab.com?user=vikasv123&theme=highcontrast&border_radius=)](https://git.io/streak-stats)]
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vikasv123&show_icons=true&locale=en&layout=compact" alt="vikasv123" /></p> -->
 
 ---
 
