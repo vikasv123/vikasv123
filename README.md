@@ -31,13 +31,13 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikasv123&show_icons=true&locale=en&layout=compact" alt="inderdev07" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikasv123&show_icons=true&locale=en&layout=compact" alt="inderdev07" /></p>
 
 ---
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikasv123&show_icons=true&locale=en" alt="inderdev07" /></p>
 
----
+--- -->
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vikasv123&" alt="vikasv123" /></p>
 
