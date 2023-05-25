@@ -4,13 +4,13 @@
   <a href="https://github.com/vikasv123/github-profile-trophy/issues">
     <img src="https://img.shields.io/github/issues/vikasv123/github-profile-trophy"/> 
   </a>
-  <a href="https://github.com/vikasv123/github-profile-trophy/network/members">
+  <a href="https://github.com/vikasv123/vikasv123/network/members">
     <img src="https://img.shields.io/github/forks/vikasv123/github-profile-trophy"/> 
   </a>  
-  <a href="https://github.com/vikasv123/github-profile-trophy/stargazers">
+  <a href="https://github.com/vikasv123/vikasv123/stargazers">
     <img src="https://img.shields.io/github/stars/vikasv123/github-profile-trophy"/> 
   </a>
-    <a href="https://github.com/vikasv123/github-profile-trophy/LICENSE">
+    <a href="https://github.com/vikasv123/vikasv123/LICENSE">
     <img src="https://img.shields.io/github/license/vikasv123/github-profile-trophy"/> 
   </a>
 </p>
