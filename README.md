@@ -1,16 +1,16 @@
 <div><h1 align="center">Hi 👋, I'm Vikas Verma</h1>
 <h3 align="center">A passionate Full Stack Developer from India.</h3></div>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
+  <a href="https://github.com/vikasv123/github-profile-trophy/issues">
     <img src="https://img.shields.io/github/issues/vikasv123/github-profile-trophy"/> 
   </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy/network/members">
+  <a href="https://github.com/vikasv123/github-profile-trophy/network/members">
     <img src="https://img.shields.io/github/forks/vikasv123/github-profile-trophy"/> 
   </a>  
-  <a href="https://github.com/ryo-ma/github-profile-trophy/stargazers">
+  <a href="https://github.com/vikasv123/github-profile-trophy/stargazers">
     <img src="https://img.shields.io/github/stars/vikasv123/github-profile-trophy"/> 
   </a>
-    <a href="https://github.com/ryo-ma/github-profile-trophy/LICENSE">
+    <a href="https://github.com/vikasv123/github-profile-trophy/LICENSE">
     <img src="https://img.shields.io/github/license/vikasv123/github-profile-trophy"/> 
   </a>
 </p>
