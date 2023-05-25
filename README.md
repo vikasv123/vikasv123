@@ -1,21 +1,8 @@
 <div><h1 align="center">Hi 👋, I'm Vikas Verma</h1>
 <h3 align="center">A passionate Full Stack Developer from India.</h3></div>
-<p align="center">
-  <a href="https://github.com/vikasv123/github-profile-trophy/issues">
-    <img src="https://img.shields.io/github/issues/vikasv123/github-profile-trophy"/> 
-  </a>
-  <a href="https://github.com/vikasv123/vikasv123/network/members">
-    <img src="https://img.shields.io/github/forks/vikasv123/github-profile-trophy"/> 
-  </a>  
-  <a href="https://github.com/vikasv123/vikasv123/stargazers">
-    <img src="https://img.shields.io/github/stars/vikasv123/github-profile-trophy"/> 
-  </a>
-    <a href="https://github.com/vikasv123/vikasv123/LICENSE">
-    <img src="https://img.shields.io/github/license/vikasv123/github-profile-trophy"/> 
-  </a>
-</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vikasv123&label=Profile%20views&color=0e75b6&style=flat" alt="vikasv123" /> </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vikasv123&label=Profile%20views&color=0e75b6&style=flat" alt="vikasv123" /> </p>
+<hr/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikasv123&theme=onedark&row=2&column=3" alt="vikasv123" /></a> </p>
 
 ---
